@@ -7,3 +7,4 @@
 - [Limpieza de Datos](https://github.com/aadrieel/MineriaDeDatos/blob/main/Ej_Limpieza_Equipo_3.ipynb)
 - [Avance 1 PIA](https://github.com/aadrieel/MineriaDeDatos/blob/main/Avance1_PIA_Equipo_3.ipynb)
 - [Presentación Técnicas de Minería](https://github.com/aadrieel/MineriaDeDatos/blob/main/Presentacion_PatronesSecuenciales_3.pdf)
+- [Preguntas Patrones Secuenciales](https://github.com/aadrieel/MineriaDeDatos/blob/main/Pregunta_Presentaci%C3%B3n_Patrones_Secuenciales_3.pdf)
