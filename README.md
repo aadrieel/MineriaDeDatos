@@ -11,3 +11,4 @@
 - [Práctica de Visualización de Datos](https://github.com/aadrieel/MineriaDeDatos/blob/main/Visualizaci%C3%B3n_3.ipynb)
 - [Avance 2 PIA](https://github.com/aadrieel/MineriaDeDatos/blob/main/AvancePIA_II_002_3.ipynb)
 - [Técnica Minería Regresión Lineal](https://github.com/aadrieel/MineriaDeDatos/blob/main/T%C3%A9cnica_Miner%C3%ADa_RL_3.ipynb)
+- [Notebook Final](https://github.com/aadrieel/MineriaDeDatos/blob/main/Notebook_Final_3.ipynb)
